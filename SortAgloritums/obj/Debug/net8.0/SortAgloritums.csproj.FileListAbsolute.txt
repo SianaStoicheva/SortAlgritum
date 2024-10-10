@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\SortAgloritums\SortAgloritums\bin\Debug\net8.0\SortAgloritums.exe
+C:\Users\lenovo\Desktop\Siana\SortAgloritums\SortAgloritums\bin\Debug\net8.0\SortAgloritums.deps.json
+C:\Users\lenovo\Desktop\Siana\SortAgloritums\SortAgloritums\bin\Debug\net8.0\SortAgloritums.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\SortAgloritums\SortAgloritums\bin\Debug\net8.0\SortAgloritums.dll
+C:\Users\lenovo\Desktop\Siana\SortAgloritums\SortAgloritums\bin\Debug\net8.0\SortAgloritums.pdb
+C:\Users\lenovo\Desktop\Siana\SortAgloritums\SortAgloritums\obj\Debug\net8.0\SortAgloritums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\SortAgloritums\SortAgloritums\obj\Debug\net8.0\SortAgloritums.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\SortAgloritums\SortAgloritums\obj\Debug\net8.0\SortAgloritums.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\SortAgloritums\SortAgloritums\obj\Debug\net8.0\SortAgloritums.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\SortAgloritums\SortAgloritums\obj\Debug\net8.0\SortAgloritums.dll
+C:\Users\lenovo\Desktop\Siana\SortAgloritums\SortAgloritums\obj\Debug\net8.0\refint\SortAgloritums.dll
+C:\Users\lenovo\Desktop\Siana\SortAgloritums\SortAgloritums\obj\Debug\net8.0\SortAgloritums.pdb
+C:\Users\lenovo\Desktop\Siana\SortAgloritums\SortAgloritums\obj\Debug\net8.0\SortAgloritums.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\SortAgloritums\SortAgloritums\obj\Debug\net8.0\ref\SortAgloritums.dll
